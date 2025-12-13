@@ -1,1 +1,11 @@
-#This file shall serve as the instruction file which will contain all instructions needed for this training.
+# This file shall serve as the instruction file which will contain all instructions needed for this training.
+NOTE! Do all your installations on your "C:" drive
+Download PowerISO from -> (https://www.poweriso.com/download.php)
+Download and Install WinPcap from -> (https://www.winpcap.org/install/)
+Register on the Siemens support from -> (https://sieportal.siemens.com/en-de/mysieportal)
+Download the Siemens "TIA V20 trial versions from -> (https://support.industry.siemens.com/cs/document/109963850/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v20-trial-download?dti=0&lc=en-DE)
+Install all ".exe" files for all the DVD downloads. Click on "Skip license transfer" during installation.
+Watch this video for help with the installation process -> (https://www.youtube.com/watch?v=xE25v2Y2_t4)
+Download and install the "TIAPackageManager" from -> (https://support.industry.siemens.com/cs/document/109975682/%F0%9F%93%A6-tia-package-manager-%E2%80%93-download-manage-and-deploy-libraries-add-ins-templates-software-tools?dti=0&lc=en-DE)
+Download the TIA Selection tool -> (https://www.siemens.com/global/en/products/automation/topic-areas/tia/tia-selection-tool.html#Downloads)
+TIA Portal Modules - Training Documents -> https://support.industry.siemens.com/cs/document/109972110/000-150-tia-portal-modules-%E2%80%93-learning-training-documents-for-download?dti=0&lc=en-DE
