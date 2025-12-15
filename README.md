@@ -13,7 +13,7 @@ PLC enthusiats! This repo contains all the necessary files and instructions for 
 ### [Chapter 1: Introduction to PLC](/1_Introduction/)
 - Images
 - Files
-### [Chapter 2: TIA Portal Installation](/2_TIA Portal Installation/)
+### [Chapter 2: TIA Portal Installation](2_TIA Portal Installation)
 - Notes
 ### [Chapter 3: PLC Hardware and Supporting Modules](/3_PLC Hardware/)
 - Notes
