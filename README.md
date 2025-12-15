@@ -2,7 +2,7 @@
 
 PLC enthusiats! This repo contains all the necessary files and instructions for my PLC training: [PLC Training](https://youtu.be/IvdFJBrp5Go?si=iQ-CHVbk39tcQgRl)
 
-[![PLC Training](0_Resources/Video_Icon.png)](https://youtu.be/IvdFJBrp5Go?si=iQ-CHVbk39tcQgRl)
+[![PLC Training](0_Resources/Video_Icon.jpg)](https://youtu.be/IvdFJBrp5Go?si=iQ-CHVbk39tcQgRl)
 ## Team Members 👥
 **🙋🏼‍♂️ Course Trainer:** [Popoola David](https://www.linkedin.com/in/Oluwasedago/)  
 
