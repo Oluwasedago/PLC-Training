@@ -1,0 +1,128 @@
+; (c) 2003   PROFIdrive
+;
+; Profibus-DP     Device Description File for PROFIdrive VIK/NAMUR
+;                 
+;
+; Author:            PROFIdrive / VIK / NAMUR 
+; Date of Creation:  05.11.2003
+; Changes:
+;   04.11.2003  First Creation: Joint WG: PROFIdrive, VIK, NAMUR
+;   05.11.2003  Review WG Certification Mr. Goetz.
+;
+;=====================================================================================
+;
+#Profibus_DP
+
+;--- general ---
+GSD_Revision        = 4
+Vendor_Name         = "PROFIdrive"
+Model_Name          = "PROFIdrive VIK/NAMUR"
+Revision            = "1.0"
+Ident_Number        = 0x3AA0 ; (3A00= C2-Kanal, 3A01-3A9F reserviert, 3AA1-3AFF reserviert)
+Protocol_Ident      = 0
+Station_Type        = 0
+FMS_supp            = 0 
+Hardware_Release    = "0.0"
+Software_Release    = "0.0" 
+;
+9.6_supp            = 1
+19.2_supp           = 1
+45.45_supp          = 1
+93.75_supp          = 1
+187.5_supp          = 1
+500_supp            = 1
+1.5M_supp           = 1
+3M_supp             = 1
+6M_supp             = 1
+12M_supp            = 1
+;
+MaxTsdr_9.6         = 60
+MaxTsdr_19.2        = 60
+MaxTsdr_45.45       = 60
+MaxTsdr_93.75       = 60
+MaxTsdr_187.5       = 60
+MaxTsdr_500         = 100
+MaxTsdr_1.5M        = 150
+MaxTsdr_3M          = 250
+MaxTsdr_6M          = 450
+MaxTsdr_12M         = 800
+;
+Redundancy          = 0                         
+Repeater_Ctrl_Sig   = 0   
+24V_Pins            = 0              
+;
+Bitmap_Device       = "PD3AA00n"; Farbe Grün 
+Bitmap_Diag         = "PD3AA00d"; Farbe Gelb
+Bitmap_SF           = "PD3AA00f"; Farbe Rot
+;
+;--- slave basic ---
+Freeze_Mode_supp    = 0   
+Sync_Mode_supp      = 0
+Auto_Baud_supp      = 1
+Set_Slave_Add_supp  = 0
+Min_Slave_Intervall = 6   ;0,6 ms
+Modular_Station     = 0   ;compact
+;Max_Module          = 1
+;Max_Input_Len       = 12
+;Max_Output_Len      = 4
+;Max_Data_Len        = 16
+Fail_Safe           = 1
+Max_Diag_Data_Len   = 6
+Modul_Offset        = 1             
+Slave_Family        = 1@PROFIdrive
+
+;--- GSD R3 slave extensions ---
+Info_Text                = "PROFIdrive VIK/NAMUR Variable Frequency Drive"
+DPV1_Slave               = 1
+C1_Read_Write_supp       = 1
+C2_Read_Write_supp       = 1 
+C1_Max_Data_Len          = 240
+C2_Max_Data_Len          = 240
+C1_Response_Timeout      = 100; 1 sec
+C2_Response_Timeout      = 100; 1 sec    
+C1_Read_Write_required   = 0  
+C2_Read_Write_required   = 0  
+C2_Max_Count_Channels    = 1
+Max_Initiate_PDU_Length  = 52
+DPV1_Data_Types          = 0
+WD_Base_1ms_supp         = 1
+Check_Cfg_Mode           = 0
+Publisher_supp           = 1
+;--- GSD R4 slave extensions ---
+;Prm_Block_Structure_supp = 0
+;Isochron_Mode_supp       = 0
+;Subscriber_supp          = 0
+
+;--- UsrPrmData Definitions ----------------------------------------
+; DPV1 status bytes
+Max_User_Prm_Data_Len      = 3
+Ext_User_Prm_Data_Const(0) = 0,0,0
+
+
+;====================================================================================
+;---  Modules ---
+; text32 "01234567890123456789012345678901"
+
+; standard telegrams
+
+Module = "PROFIdrive VIK NAMUR Telegram 20" 0xC3,0xC1,0xC5,0xFD,0x00,0x14   ;0xE1,0xD5
+20
+EndModule
+
+;====================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
