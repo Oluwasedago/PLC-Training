@@ -28,7 +28,7 @@ PLC enthusiats! This repo contains all the necessary files and instructions for 
 - S7-PLCSIM
 ### [Chapter 8: Introduction to Timers and Counters](/8_Timers_and_Counters/)
 - Notes
-### [Chapter 9: Libraries and GSD Files] (/9_Libraries_and_GSD_Files/)
+### [Chapter 9: Libraries and GSD Files](/9_Libraries_and_GSD_Files/)
 - LGF Library
 - GSD Files
 - Notes
