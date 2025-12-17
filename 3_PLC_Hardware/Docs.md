@@ -1,0 +1,1 @@
+The Siemens Manual Collection Cloud documentation does a lot of explanation - [Hardware-Configuration](https://docs.tia.siemens.cloud/r/simatic_s7_1500_et_200mp_manual_collection_enus_20/basic-information/automation-system/application-planning/hardware-configuration)
