@@ -1,17 +1,14 @@
-# 💻 PLC Training - For Oluwasedago Foundation
+# 💻 PLC Training - For Beginners
 
-PLC enthusiats! This repo contains all the necessary files and instructions for my PLC training: [PLC_Training](https://www.youtube.com/playlist?list=PLFJaTiahcrM8lWGpyX2EzdxqexAtJTG9T)
+PLC enthusiats! This repo contains all the necessary files and instructions for my PLC training delivered under the mentorship program of the Oluwasedago Foundation: [PLC_Training](https://www.youtube.com/playlist?list=PLFJaTiahcrM8lWGpyX2EzdxqexAtJTG9T)
 
-[![PLC Training](0_Resources/Playlist_Thumbnail.png)[PLC_Training](https://www.youtube.com/playlist?list=PLFJaTiahcrM8lWGpyX2EzdxqexAtJTG9T)
+[![PLC Training](0_Resources/Playlist_Thumbnail.png)](https://www.youtube.com/playlist?list=PLFJaTiahcrM8lWGpyX2EzdxqexAtJTG9T)
 
 ## Team Members 👥
 **🙋🏼‍♂️ Course Trainer:** [Popoola David](https://www.linkedin.com/in/Oluwasedago/)  
 
 ## Table of Contents
 
-### [Chapter 0: Resources](/0_Resources/)
-* Cover.png
-* HW_Config.jpg
 ### [Chapter 1: Introduction to PLC](/1_Introduction/)
 - IEC 61131-3.pdf
 - Introduction to PLC.pdf
@@ -44,8 +41,9 @@ PLC enthusiats! This repo contains all the necessary files and instructions for 
 - Notes
 ## Found a Typo? Want to Contribute?
 - If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
+    - Forking the repository
     - Making any changes
     - Submitting a pull request
+    - Reaching out to me via mail or comments on the youtube videos.
 	
 	
