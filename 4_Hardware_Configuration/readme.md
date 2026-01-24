@@ -13,4 +13,4 @@ Configuration is the bridge between the physical and digital world. This chapter
 * **PROFINET Device Name:** Understanding why the "Device Name" is more important than the IP address in PROFINET networks.
 
 ## Resources
-* **YouTube Guide:** [Siemens_Hardware Configuration]([https://www.youtube.com/watch?v=F86kUMyYWn](https://youtu.be/N4iRTMjvFWs?si=PsI40S1mUDlbV6Uf)s)
+* **YouTube Guide:** [Hardware Configuration & Communication Setup](https://youtu.be/maqBjWNuaf8?si=ywn3y6kgt0rULRNW)
