@@ -59,4 +59,4 @@ This glossary provides definitions for common terms, acronyms, and concepts used
 * **UDT (User-Defined Data Type):** A custom-defined structure that allows you to group different data types into a single named variable.
 
 ---
-*Created for the PLC Training Program by Popoola David.*
+*Created for the PLC Training Program by Oluwasedago.*
