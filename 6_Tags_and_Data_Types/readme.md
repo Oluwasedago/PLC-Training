@@ -80,7 +80,7 @@ For data types that cannot be stored in M memory, create a **Global Data Block (
 ## 5. SCL Stress Test: Overflow & Conversion
 Use this snippet to observe how the PLC handles data limits and precision.
 
-```sscl
+```scl
 // ==========================================================
 // DATA TYPE STRESS TEST
 // ==========================================================
