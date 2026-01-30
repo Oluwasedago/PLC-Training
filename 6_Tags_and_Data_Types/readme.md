@@ -99,3 +99,4 @@ REGION 2. PRECISION HANDLING
     "MyDataBlock".Tag_LReal := 123.456789012345;
 END_REGION
 ```
+- **Reference:** [S7-1200 PLC Concepts - Data Types](https://docs.tia.siemens.cloud/r/simatic_s7_1200_manual_collection_enus_20/plc-concepts/data-types/data-types)
