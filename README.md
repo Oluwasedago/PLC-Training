@@ -23,7 +23,7 @@
 - [Learning Path](#-learning-path)
 - [Resources](#-resources)
 - [Contribution & Support](#-contribution--support)
-- [License](#-license)
+- [License](#-license.txt)
 
 ---
 
@@ -469,7 +469,7 @@ Track your progress through the course:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
